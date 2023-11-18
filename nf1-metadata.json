@@ -1,18 +1,5 @@
 {
-    "title": "Test Asset Metadata",
-    "type": "object",
-    "properties": {
-        "name": {
-            "type": "string",
-            "description": "name"
-        },
-        "description": {
-            "type": "string",
-            "description": "description"
-        },
-        "image": {
-            "type": "string",
-            "description": "https://ipfs.io/ipfs/QmUX1N8h73TieEu1yrTiJg3iLC72eXidqrw65ExVXf1vRJ"
-        }
-    }
+    "name": "The Witch",
+    "description": "Digital drawing of a Witch made on Schools Haloween competition by Greg",
+    "image": "https://ipfs.io/ipfs/QmXyH7W5DrqKuPjXFjC9MC69Bv4EwtawsrQoZPSLbw521d"
 }
