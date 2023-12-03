@@ -12,7 +12,7 @@
         },
         "image": {
             "type": "string",
-            "description": "https://ipfs.io/ipfs/QmUX1N8h73TieEu1yrTiJg3iLC72eXidqrw65ExVXf1vRJ"
+            "description": "https://altlayer-image-store.alt.technology/msnft.png"
         }
     }
 }
