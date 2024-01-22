@@ -1,18 +1,5 @@
 {
-    "title": "Test Asset Metadata",
-    "type": "object",
-    "properties": {
-        "name": {
-            "type": "string",
-            "description": "name"
-        },
-        "description": {
-            "type": "string",
-            "description": "description"
-        },
-        "image": {
-            "type": "string",
-            "description": "https://altlayer-image-store.alt.technology/msnft.png"
-        }
-    }
+    "name": "Drawing of Giraffe",
+    "description": "Mickey mouse and Donald the Duck drawing made by our youngest student Amy",
+    "image": "https://altlayer-image-store.alt.technology/msnft.png"
 }
